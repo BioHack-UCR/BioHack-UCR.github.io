@@ -13,13 +13,30 @@ font-family: "questrial";
 }
 
 body {
-  background-image: linear-gradient(to top, #a8edea 10%, #ffcbdb 90%);
+  background: linear-gradient(180deg, rgba(251, 199, 212, 0.9) 0%, #9796F0 100%);
   background-attachment: fixed;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.8;
   color: #868e96;
+
+}
+
+/*
+background_t {
+background-image: linear-gradient(171.18de:g, #202E74 2.11%, rgba(102, 110, 150, 0.55) 43.19%, #B0B4C8 53.93%);
+}
+*/
+
+#home {
+	background-image: url("img/background.png");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+		height: 100vh;
+		width: 100vw;
 }
 
 a {
@@ -69,7 +86,7 @@ header .navbar-brand span {
 header .navbar {
   padding-top: 0;
   padding-bottom: 0;
-  background-image: linear-gradient(to top, #a8edea 10%, #ffcbdb 90%) !important;
+   background: linear-gradient(180deg, rgba(251, 199, 212, 0.9) 0%, #9796F0 100%); !important;
   background-attachment: fixed;
 }
 
@@ -807,7 +824,7 @@ html, body {
 
 .logo-container {
     z-index: -1;
-    background-image: linear-gradient(to top, #a8edea 10%, #ffcbdb 90%);
+    background: linear-gradient(180deg, rgba(251, 199, 212, 0.9) 0%, #9796F0 100%);
     background-attachment: fixed;
 
     margin-left: auto;
@@ -862,7 +879,7 @@ html, body {
 }
 
 .section-bg-light {
-  background-image: linear-gradient(to top, #a8edea 10%, #ffcbdb 90%);
+  background: linear-gradient(180deg, rgba(251, 199, 212, 0.9) 0%, #9796F0 100%);
   background-attachment: fixed;
 }
 
@@ -1211,7 +1228,10 @@ ul {
   height: 17px;
   margin: 0px;
   border: none;
+/*
   background-color: #e7cbde;
+*/
+background-color: #16ffff;
 }
 
 
