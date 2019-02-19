@@ -909,6 +909,7 @@ html, body {
 }
 
 .panel-title {
+  font-family: 'poppins-light';
   font-size: 16px;
   width: 100%;
   position: relative;
@@ -919,6 +920,7 @@ html, body {
 }
 
 .panel-content {
+  font-family: 'poppins-light';
   font-size: 14px;
   padding: 0px 10px;
   margin: 0 40px;
@@ -978,22 +980,26 @@ html, body {
 }
 
 .proj-sec h2 {
+  font-family: 'poppins-light';
   font-size: 24px;
   font-weight: bolder;
   text-decoration: underline;
 }
 
 .proj-sec h3 {
+  font-family: 'poppins-light';
   font-size: 18px;
 }
 
 .proj-title {
+  font-family: 'poppins-light';
   font-size: 17px;
   color: black;
   font-weight: bold;
 }
 
 .proj-desc {
+  font-family: 'poppins-light';
   font-size: 12px;
   color: black;
 }
@@ -1186,7 +1192,7 @@ ul {
 
 @media (max-width: 200px) {
   .ann-tag {
-    font-family: "poppins-lite";
+    font-family: "poppins-light";
     font-size: 15px;
   }
 }
