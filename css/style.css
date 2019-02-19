@@ -906,10 +906,12 @@ html, body {
 }
 
 .faq-question {
+  font-family: "poppins-light";
   padding-bottom: 15px;
 }
 
 .faq-question h2 {
+  font-family: "poppins-light";
   font-weight: bolder;
   text-decoration: underline;
   font-size: 27px;
@@ -997,26 +999,26 @@ html, body {
 }
 
 .proj-sec h2 {
-  font-family: 'poppins-light';
+  font-family: "poppins-light";
   font-size: 24px;
   font-weight: bolder;
   text-decoration: underline;
 }
 
 .proj-sec h3 {
-  font-family: 'poppins-light';
+  font-family: "poppins-light";
   font-size: 18px;
 }
 
 .proj-title {
-  font-family: 'poppins-light';
+  font-family: "poppins-light";
   font-size: 17px;
   color: black;
   font-weight: bold;
 }
 
 .proj-desc {
-  font-family: 'poppins-light';
+  font-family: "poppins-light";
   font-size: 12px;
   color: black;
 }
@@ -1190,13 +1192,13 @@ ul {
   background-size: 100% 100%;
 }
 .bubble h2 {
-  font-family: "poppins";
+  font-family: "poppins-light";
   font-size: 24px;
   font-weight: bold;
   text-align: center;
 }
 .bubble h3 {
-  font-family: "poppins";
+  font-family: "poppins-light";
   font-size: 18px;
   font-weight: 500px;
   text-decoration: underline;
