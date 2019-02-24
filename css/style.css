@@ -1,15 +1,9 @@
 @font-face {
 font-family: "poppins-light";
-  src: url("css/fonts/poppins/poppins-light-webfont.eot");
-  src: url("css/fonts/poppins/poppins-light-webfont.woff") format("woff"),
+  src: url("css/fonts/poppins-light/poppins-light-webfont.ttf");
+  src: url("css/fonts/poppins-light/poppins-light-webfont.eot");
+  src: url("css/fonts/poppins-light/poppins-light-webfont.woff") format("woff"),
   url("css/fonts/poppins/poppins-light-webfont.eot#filename") format("svg");
-}
-
-@font-face {
-font-family: "questrial";
-  src: url("css/fonts/questrial/questrial-regular-webfont.eot");
-  src: url("css/fonts/questrial/questrial-regular-webfont.woff") format("woff"),
-  url("css/fonts/questrial/questrial-regular-webfont.eot#filename") format("svg");
 }
 
 body {
