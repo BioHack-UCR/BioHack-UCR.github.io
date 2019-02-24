@@ -1,5 +1,5 @@
 @font-face {
-font-family: "poppins-light";
+font-family: 'Poppins', sans-serif;
   src: url("css/fonts/poppins/poppins-light-webfont.eot");
   src: url("css/fonts/poppins/poppins-light-webfont.woff") format("woff"),
   url("css/fonts/poppins/poppins-light-webfont.eot#filename") format("svg");
@@ -393,7 +393,7 @@ header .navbar .dropdown-menu a {
 }
 
 .home-feature .one-col .icon, .home-feature .two-col .icon, .home-feature .three-col .icon {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 150px;
   color: rgba(255, 255, 255, 0.247);
   position: absolute;
@@ -410,7 +410,7 @@ header .navbar .dropdown-menu a {
 
 .home-feature .one-col h2, .home-feature .two-col h2, .home-feature .three-col h2 {
   color: rgba(0, 0, 0, 0.76);
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   text-align: center;
   letter-spacing: .05em;
@@ -421,7 +421,7 @@ header .navbar .dropdown-menu a {
 
 .home-feature .one-col p, .home-feature .two-col p, .home-feature .three-col p {
   color: rgba(0, 0, 0, 0.726);
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 15px;
   font-weight: 350;
 
@@ -906,12 +906,12 @@ html, body {
 }
 
 .faq-question {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   padding-bottom: 15px;
 }
 
 .faq-question h2 {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-weight: bolder;
   text-decoration: underline;
   font-size: 27px;
@@ -997,26 +997,26 @@ html, body {
 }
 
 .proj-sec h2 {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 24px;
   font-weight: bolder;
   text-decoration: underline;
 }
 
 .proj-sec h3 {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
 }
 
 .proj-title {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 17px;
   color: black;
   font-weight: bold;
 }
 
 .proj-desc {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 12px;
   color: black;
 }
@@ -1190,13 +1190,13 @@ ul {
   background-size: 100% 100%;
 }
 .bubble h2 {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 24px;
   font-weight: bold;
   text-align: center;
 }
 .bubble h3 {
-  font-family: "poppins-light";
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
   font-weight: 500px;
   text-decoration: underline;
@@ -1209,7 +1209,7 @@ ul {
 
 @media (max-width: 200px) {
   .ann-tag {
-    font-family: "poppins-light";
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
   }
 }
