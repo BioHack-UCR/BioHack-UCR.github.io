@@ -1,6 +1,8 @@
+/*
 body {
-    padding-top: 20px;
+    padding-top: 200px;
 }
+*/
 
 .carousel {
   width: 100%;
@@ -12,22 +14,23 @@ body {
 }
 
 
-@media (min-width: 576px) and (max-width: 767.98px) {
-  .slide-box img {
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    max-width: 50%;
+@media (max-width: 600px) {
+  .carousel {
+    width: 0%;
   }
 }
 /*
+
 @media (min-width: 768px) and (max-width: 991.98px) {
   .slide-box img {
-    -ms-flex: 0 0 33.3333;
+    -ms-flex: 0 0 33.3333%;
     flex: 0 0 33.3333%;
     max-width: 33.3333%;
   }
 }
+*/
 
+/*
 @media (min-width: 992px)
 {
   .slide-box img {
@@ -36,11 +39,4 @@ body {
     max-width: 25%;
   }
 }
-
-.carousel-caption {
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 20px;
-  border-radius: .5rem;
-}
 */
-
